@@ -1,26 +1,26 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Dripping Wet",
+  "titleTemplate": "%s - Dripping Wet",
+  "description": "Dipping Wet Disposables eCommerce Site and Landing Page"",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Dripping Wet",
+    "description": "Dripping Wet Disposables eCommerce Site and Landing Page",
     "type": "website",
     "locale": "en_IE",
     "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "site_name": "Dripping Wet Commerce",
     "images": [
       {
         "url": "/card.png",
         "width": 800,
         "height": 600,
-        "alt": "Next.js Commerce"
+        "alt": "Dripping Wet Disposables"
       }
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@drippingwet",
+    "site": "@drippingwet
     "cardType": "summary_large_image"
   }
 }
